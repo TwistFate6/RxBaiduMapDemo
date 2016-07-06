@@ -1,0 +1,2 @@
+# RxBaiduMapDemo
+运行时,将appdelegate里面用到的key换成自己在百度地图上申请的key,项目Bundle ID也要和百度地图申请key时填写的一致
